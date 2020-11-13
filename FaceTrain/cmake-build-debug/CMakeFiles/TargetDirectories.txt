@@ -1,0 +1,3 @@
+/Users/zcw/dev/c_workspace/zcw_c_demos/FaceTrain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/FaceTrain/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/FaceTrain/cmake-build-debug/CMakeFiles/FaceTrain.dir
