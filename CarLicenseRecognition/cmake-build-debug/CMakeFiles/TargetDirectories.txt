@@ -1,0 +1,12 @@
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CMakeFiles/CarLicenseRecognition.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarAnnTrain/CMakeFiles/rebuild_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarAnnTrain/CMakeFiles/edit_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarAnnTrain/CMakeFiles/CarAnnTrain.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarSvmTrain/CMakeFiles/rebuild_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarSvmTrain/CMakeFiles/edit_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarSvmTrain/CMakeFiles/CarSvmTrain.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarRecgnize/CMakeFiles/rebuild_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarRecgnize/CMakeFiles/edit_cache.dir
+/Users/zcw/dev/c_workspace/zcw_c_demos/CarLicenseRecognition/cmake-build-debug/CarRecgnize/CMakeFiles/CarRecgnize.dir

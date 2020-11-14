@@ -3,9 +3,6 @@ project(FaceTrain)
 
 set(CMAKE_CXX_STANDARD 14)
 
-#set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14,c++_shared")
-
-
 add_executable(FaceTrain CascadeDetectorAdapter.cpp)
 
 #修改为自己的路径
